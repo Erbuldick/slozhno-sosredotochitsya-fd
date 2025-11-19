@@ -224,6 +224,7 @@ padding: 40px 10px 40px;
 
   .header-title {
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+    padding-top: 100px;
   }
 
   .rec-bulb {
@@ -247,10 +248,6 @@ padding: 40px 10px 40px;
 
   .header__theme-menu {
     padding-top: 75px;
-  }
-
-  .header-title {
-    padding: 100px 0 0 0;
   }
 
   .header-content {
@@ -367,6 +364,9 @@ padding: 40px 10px 40px;
 
   .header-title {
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+    padding-top: 275px;
+    grid-row: 2;
+    grid-column: 1 / 6;
   }
 
   .header__theme-menu {
@@ -395,13 +395,6 @@ padding: 40px 10px 40px;
   .decorated-zone::after {
     bottom: 2.6%;
     left: 2%;
-  }
-
-  .header-title {
-    grid-row: 2;
-    grid-column: 1 / 6;
-    font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
-    padding: 275px 0 0 0;
   }
 
   .header-content {
