@@ -8,6 +8,7 @@
   --accent-color: #FF0070;
   --accent-color-rgb: 255, 0, 112;
   --content-color: #000028;
+  --bg-color: #000028;
   --text-color: #F1B2CE;
   --bg-image: url(../images/cover-image-dark.png);
 }
@@ -21,6 +22,7 @@
   --accent-color: #FF0070;
   --accent-color-rgb: 255, 0, 112;
   --content-color: #000028;
+  --bg-color: #000028;
   --text-color: #F1B2CE;
   --bg-image: url(../images/cover-image-dark.png);
 
